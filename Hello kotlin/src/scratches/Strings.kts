@@ -1,3 +1,5 @@
+package scratches
+
 val fish = "fish"
 val plant = "plant"
 

@@ -1,3 +1,5 @@
+package scratches
+
 val trout = "trout"
 val haddock = "haddock"
 val snapper = "snapper"

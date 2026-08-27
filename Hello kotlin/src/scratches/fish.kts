@@ -1,3 +1,5 @@
+package scratches
+
 1+1
 
 53-3

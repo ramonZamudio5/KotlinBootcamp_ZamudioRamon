@@ -1,3 +1,5 @@
+package scratches
+
 2.plus(71).plus(233).minus(13).div(30)
 
 var  rainbowColor = "red"
